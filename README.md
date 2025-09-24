@@ -85,7 +85,7 @@ src/main/java/com/example/batch/
 ---
 ## ⚙️ Hình ảnh Work Flow
 
-[image_alt](https://github.com/Kawaki243/spring-batch-demo/blob/main/work_flow.png?raw=true)
+![image_alt](https://github.com/Kawaki243/spring-batch-demo/blob/main/work_flow.png?raw=true)
 
 ## ▶️ Chạy project
 
