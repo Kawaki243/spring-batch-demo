@@ -94,7 +94,7 @@ cd spring-batch-demo
 
 ### 2. Chạy ứng dụng
 ```bash
-mvn spring-boot:run
+docker build -t springbatch-app . && docker run --rm --name springbatch-container springbatch-app
 ```
 
 ### 3. Gọi API để chạy Job
