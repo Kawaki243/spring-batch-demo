@@ -1,6 +1,6 @@
-# 📦 Spring Batch CSV Importer
+# 📦 Spring Batch Demo
 
-Dự án demo sử dụng **Spring Batch** để import dữ liệu người dùng từ file CSV vào cơ sở dữ liệu.
+Demo Project sử dụng **Spring Batch** để import dữ liệu người dùng từ file CSV vào cơ sở dữ liệu.
 
 ---
 
@@ -88,8 +88,8 @@ src/main/java/com/example/batch/
 
 ### 1. Clone project
 ```bash
-git clone https://github.com/your-username/spring-batch-csv-importer.git
-cd spring-batch-csv-importer
+git clone https://github.com/Kawaki243/spring-batch-csv-importer.git
+cd spring-batch-demo
 ```
 
 ### 2. Chạy ứng dụng
@@ -101,7 +101,7 @@ mvn spring-boot:run
 Sử dụng **Postman** hoặc `curl`:
 
 ```bash
-curl -X POST http://localhost:8080/jobs/importData
+curl -X POST http://localhost:8080/api/v1.O/jobs/importData
 ```
 
 Kết quả trả về:  
