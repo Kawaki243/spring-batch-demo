@@ -1,0 +1,6 @@
+com\project\springbatchdemo\repository\UserRepository.class
+com\project\springbatchdemo\config\SpringBatchConfig.class
+com\project\springbatchdemo\controller\JobController.class
+com\project\springbatchdemo\SpringBatchDemoApplication.class
+com\project\springbatchdemo\entity\UserEntity.class
+com\project\springbatchdemo\config\UserProcessor.class
